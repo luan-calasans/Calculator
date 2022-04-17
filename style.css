@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@400;500;700&display=swap');
 
-/* */
-
 *{
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -39,6 +37,11 @@ body{
 
 .span-two{
     grid-column: span 2;
+}
+
+.grid-container > button:hover {
+  background-color: #eee;
+  color: #111;
 }
 
 .grid-container > .output{
