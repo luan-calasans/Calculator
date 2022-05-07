@@ -4,7 +4,7 @@
   <p>Calculator that performs simple math operations: addition, subtraction, multiplication and division.</p>
 </div>
 
-<h2>⚡ Technologies</h2>
+<h2>🚀 Technologies</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
